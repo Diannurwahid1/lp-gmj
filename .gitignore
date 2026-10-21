@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+outputs/
+.DS_Store
+/.vercel/
+/.openai/
+/assets/
+/dist/
+/images (7).jpg
