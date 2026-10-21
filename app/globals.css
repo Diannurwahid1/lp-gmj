@@ -91,3 +91,11 @@
   .benefit p,.service-card p{overflow-wrap:anywhere}
   .step{padding-right:10px}
 }
+
+.digital-support{display:inline-flex;align-items:center;gap:12px;max-width:100%;min-height:58px;margin-top:14px;padding:6px 12px;border:1px solid #e8e8ec;border-radius:8px;background:#ffffffed;box-shadow:0 3px 14px #0000000a;transition:box-shadow .2s,transform .2s}
+.digital-support:hover{box-shadow:0 7px 18px #00000017;transform:translateY(-2px)}
+.digital-support span{display:flex;flex-direction:column;gap:3px;white-space:nowrap}
+.digital-support strong{font-size:10px;line-height:1.1;text-transform:uppercase;letter-spacing:.35px}
+.digital-support small{font-size:10px;color:#4d5568;line-height:1.2}
+.digital-support img{display:block;width:128px;height:auto;flex:none}
+@media(max-width:390px){.digital-support{gap:7px;padding:6px 9px}.digital-support img{width:112px}.digital-support small{font-size:9px}}

@@ -3,7 +3,7 @@ import './globals.css';
 export const metadata = {
   title: 'PT Gadai Murah Jogja — Solusi Dana Cepat dan Terpercaya',
   description: 'PT Gadai Murah Jogja menawarkan solusi gadai yang aman, cepat, dan terpercaya di Yogyakarta. Berizin dan diawasi OJK.',
-  metadataBase: new URL('https://gadai-murah-jogja-landing.jourday14.chatgpt.site'),
+  metadataBase: new URL('https://lp-gadaimurahjogja.vercel.app'),
   alternates: { canonical: '/' },
   openGraph: {
     title: 'PT Gadai Murah Jogja — Solusi Dana Cepat dan Terpercaya',
