@@ -99,3 +99,6 @@
 .digital-support small{font-size:10px;color:#4d5568;line-height:1.2}
 .digital-support img{display:block;width:128px;height:auto;flex:none}
 @media(max-width:390px){.digital-support{gap:7px;padding:6px 9px}.digital-support img{width:112px}.digital-support small{font-size:9px}}
+.footer-col .holiday-note{margin:2px 0 0 24px;color:#4d525d;line-height:1.45}
+.footer-col .holiday-note strong{color:var(--red);margin:0}
+@media(max-width:580px){.footer-col .holiday-note{margin-left:24px;max-width:300px}}
